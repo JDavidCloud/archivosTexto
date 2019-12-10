@@ -1,1 +1,4 @@
 Este será el cuerpo del texto
+
+continuación del texto, este es el cuerpo del
+texto.
