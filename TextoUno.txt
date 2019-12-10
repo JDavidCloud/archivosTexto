@@ -1,3 +1,6 @@
 Creo un archivo de texto
 
-sera el inicio del texto
+será el inicio del texto
+
+Inicio de texto que tendra dos lineas
+y se termina aqui. 
